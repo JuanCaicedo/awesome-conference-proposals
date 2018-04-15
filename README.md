@@ -25,3 +25,7 @@ successful speakers of all gender identities and cultural backgrounds.
 It's possible that we'll hold off on adding certain speakers to this list as we
 attempt to encourage submissions from other speakers, to maintain a diverse
 collection group.
+
+## Code of conduct
+
+[CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
