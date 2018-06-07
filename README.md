@@ -11,6 +11,7 @@ and less intimidating for aspiring speakers of all levels.
 - https://github.com/AimeeKnight/Getting-Comfortable-Uncomfortable
 - https://github.com/AimeeKnight/Dark-Magic
 - https://github.com/aspittel/cfps
+- https://github.com/JuanCaicedo/speaking
 
 ## A note on diversity
 
